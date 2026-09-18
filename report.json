@@ -1,0 +1,54 @@
+{
+    "totalStudents": 30,
+    "enrollment": {
+        "enrolled": 23,
+        "notEnrolled": 7
+    },
+    "overallAverage": 89.34,
+    "topStudents": [
+        {
+            "id": 20,
+            "name": "Christine Sy",
+            "course": "BSIT",
+            "average": 97.5
+        },
+        {
+            "id": 12,
+            "name": "Julia Fernandez",
+            "course": "BSCS",
+            "average": 96.25
+        },
+        {
+            "id": 8,
+            "name": "Angela Flores",
+            "course": "BSIT",
+            "average": 95.5
+        },
+        {
+            "id": 24,
+            "name": "Laura Reyes",
+            "course": "BSCS",
+            "average": 94.5
+        },
+        {
+            "id": 28,
+            "name": "Rachel Cruz",
+            "course": "BSIS",
+            "average": 94.25
+        }
+    ],
+    "courseAverages": [
+        {
+            "course": "BSCS",
+            "average": 89.75
+        },
+        {
+            "course": "BSIT",
+            "average": 89.28
+        },
+        {
+            "course": "BSIS",
+            "average": 88.94
+        }
+    ]
+}

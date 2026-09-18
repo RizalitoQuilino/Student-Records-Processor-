@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Dela Cruz",
+        "year": 1,
+        "course": "BSIT",
+        "grades": [
+            90,
+            88,
+            92,
+            85
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 2,
+        "name": "Maria Santos",
+        "year": 2,
+        "course": "BSCS",
+        "grades": [
+            95,
+            91,
+            93,
+            94
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 3,
+        "name": "Pedro Reyes",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [
+            87,
+            89,
+            85,
+            90
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 4,
+        "name": "Ana Garcia",
+        "year": 4,
+        "course": "BSIS",
+        "grades": [
+            92,
+            94,
+            90,
+            95
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 5,
+        "name": "Carlos Mendoza",
+        "year": 1,
+        "course": "BSIT",
+        "grades": [
+            80,
+            85,
+            82,
+            88
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 6,
+        "name": "Sofia Ramos",
+        "year": 2,
+        "course": "BSCS",
+        "grades": [
+            89,
+            91,
+            90,
+            87
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 7,
+        "name": "Miguel Torres",
+        "year": 3,
+        "course": "BSIS",
+        "grades": [
+            84,
+            86,
+            88,
+            85
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 8,
+        "name": "Angela Flores",
+        "year": 4,
+        "course": "BSIT",
+        "grades": [
+            96,
+            94,
+            97,
+            95
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 9,
+        "name": "Daniel Cruz",
+        "year": 1,
+        "course": "BSCS",
+        "grades": [
+            78,
+            82,
+            80,
+            85
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 10,
+        "name": "Isabella Lopez",
+        "year": 2,
+        "course": "BSIS",
+        "grades": [
+            91,
+            89,
+            94,
+            92
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 11,
+        "name": "Mark Villanueva",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [
+            88,
+            90,
+            87,
+            91
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 12,
+        "name": "Julia Fernandez",
+        "year": 4,
+        "course": "BSCS",
+        "grades": [
+            97,
+            96,
+            94,
+            98
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 13,
+        "name": "Kevin Bautista",
+        "year": 1,
+        "course": "BSIS",
+        "grades": [
+            83,
+            85,
+            81,
+            87
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 14,
+        "name": "Nicole Aquino",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [
+            90,
+            92,
+            89,
+            91
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 15,
+        "name": "Ryan Castillo",
+        "year": 3,
+        "course": "BSCS",
+        "grades": [
+            86,
+            88,
+            84,
+            90
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 16,
+        "name": "Grace Navarro",
+        "year": 4,
+        "course": "BSIS",
+        "grades": [
+            93,
+            95,
+            92,
+            94
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 17,
+        "name": "Joshua Lim",
+        "year": 1,
+        "course": "BSIT",
+        "grades": [
+            75,
+            80,
+            78,
+            82
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 18,
+        "name": "Patricia Tan",
+        "year": 2,
+        "course": "BSCS",
+        "grades": [
+            91,
+            93,
+            90,
+            92
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 19,
+        "name": "Nathan Perez",
+        "year": 3,
+        "course": "BSIS",
+        "grades": [
+            85,
+            87,
+            89,
+            88
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 20,
+        "name": "Christine Sy",
+        "year": 4,
+        "course": "BSIT",
+        "grades": [
+            98,
+            97,
+            96,
+            99
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 21,
+        "name": "Anthony Ramos",
+        "year": 1,
+        "course": "BSCS",
+        "grades": [
+            82,
+            84,
+            86,
+            80
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 22,
+        "name": "Michelle Garcia",
+        "year": 2,
+        "course": "BSIS",
+        "grades": [
+            89,
+            91,
+            88,
+            90
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 23,
+        "name": "Brian Santos",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [
+            90,
+            87,
+            92,
+            89
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 24,
+        "name": "Laura Reyes",
+        "year": 4,
+        "course": "BSCS",
+        "grades": [
+            95,
+            94,
+            96,
+            93
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 25,
+        "name": "Eric Mendoza",
+        "year": 1,
+        "course": "BSIS",
+        "grades": [
+            79,
+            83,
+            81,
+            85
+        ],
+        "enrolled": false
+    },
+    {
+        "id": 26,
+        "name": "Samantha Flores",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [
+            92,
+            90,
+            94,
+            91
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 27,
+        "name": "Gabriel Torres",
+        "year": 3,
+        "course": "BSCS",
+        "grades": [
+            88,
+            86,
+            90,
+            89
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 28,
+        "name": "Rachel Cruz",
+        "year": 4,
+        "course": "BSIS",
+        "grades": [
+            94,
+            92,
+            96,
+            95
+        ],
+        "enrolled": true
+    },
+    {
+        "id": 29,
+        "name": "Stephen Lopez",
+        "year": 2,
+        "course": "BSIT",
+        "grades": [],
+        "enrolled": false
+    },
+    {
+        "id": 30,
+        "name": "Karen Villanueva",
+        "year": 3,
+        "course": "BSCS",
+        "grades": [
+            93,
+            91,
+            95,
+            94
+        ],
+        "enrolled": true
+    }
+]
